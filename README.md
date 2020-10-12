@@ -22,8 +22,7 @@ JavaScript
 FrameWork : Spring
 FrameWork DB : Oracle
 
-# Code Example
-* DB 
+# DB 
 ![yam_db](https://user-images.githubusercontent.com/72369991/95701674-2bcd7180-0c85-11eb-90fd-80e022b5cd1d.png)
 
 
