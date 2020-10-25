@@ -25,10 +25,10 @@ Restaurant Information Website for Students
 ![yam_3](https://user-images.githubusercontent.com/72369991/95701796-7c44cf00-0c85-11eb-9d2f-8bffad42bcd9.png)
 
 # Tech/framework used
-Java
-JavaScript 
-FrameWork : Spring
-FrameWork DB : Oracle
+* Java
+* JavaScript 
+* FrameWork : Spring
+* FrameWork DB : Oracle
 
 # DB 
 
